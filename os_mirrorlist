@@ -1,0 +1,4 @@
+$SW_SERVER/download/mirrors/fedora-22
+$SW_SERVER/download/mirrors/updates-released-f22
+http://mirrors.fedoraproject.org/mirrorlist?repo=fedora-22&arch=x86_64
+http://mirrors.fedoraproject.org/mirrorlist?repo=updates-released-f22&arch=x86_64
